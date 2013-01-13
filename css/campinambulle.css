@@ -28,6 +28,10 @@ h4 {
   margin-bottom: 25px;
 }
 
+.spaceL10 {
+  margin-left: 10px;
+}
+
 #header {
   height: 90px;
   padding: 10px 0;
@@ -50,8 +54,22 @@ h4 {
   text-align: center;
 }
 
-#notre-produit h3 {
-  margin: 0
+#nos-produits table th,
+#nos-produits table td {
+  font-size: 17.5px;
+  text-align: center !important;
+}
+
+#nos-produits table.popular {
+  border: 1px solid #f9a65d;
+}
+
+#nos-produits table.popular td {
+  border-color: transparent;
+}
+
+#nos-produits h3.popular  {
+  color: #f9a65d;
 }
 
 #faq a {
