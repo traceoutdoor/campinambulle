@@ -83,3 +83,29 @@ h4 {
 #contact i {
   font-size: 100px;
 }
+
+.accordion-heading a {
+
+color: #F9A65C;
+
+}
+
+.accordion {
+
+box-shadow: 0 1px 0 #FBFBFB inset;
+
+}
+
+.accordion-heading {
+
+border-bottom: 1px solid #DDDDDD;
+background-color: #F8F8F8;
+
+}
+
+.accordion-inner {
+
+border-bottom: 1px solid #E5E5E5;
+border-top: none;
+
+}
