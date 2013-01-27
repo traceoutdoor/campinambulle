@@ -94,6 +94,11 @@ h4 {
   cursor: pointer;
 }
 
+#nos-produits h3 a {
+  font-size: 24.5px;
+  margin-bottom: 6px;
+}
+
 #faq a {
   color: #f9a65d;
 }
