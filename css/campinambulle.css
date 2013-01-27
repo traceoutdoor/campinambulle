@@ -24,6 +24,10 @@ h4 {
   margin-top: 25px;
 }
 
+.spaceT40 {
+  margin-top: 40px;
+}
+
 .spaceB10 {
   margin-bottom: 10px;
 }
@@ -94,8 +98,12 @@ h4 {
   color: #f9a65d;
 }
 
+#nos-atouts .row {
+  text-align: center;
+}
+
 #nos-atouts i {
-  font-size: 125px;
+  font-size: 75px;
 }
 
 #contact i {
