@@ -2,6 +2,7 @@
   text-align: center;
 }
 
+h1,
 h2 {
   font-weight: 300;
   color: #f9a65d;
@@ -121,27 +122,28 @@ h4 {
 }
 
 .accordion-heading a {
-
-color: #F9A65C;
-
+  color: #F9A65C;
 }
 
 .accordion {
-
-box-shadow: 0 1px 0 #FBFBFB inset;
-
+  box-shadow: 0 1px 0 #FBFBFB inset;
 }
 
 .accordion-heading {
-
-border-bottom: 1px solid #DDDDDD;
-background-color: #F8F8F8;
-
+  border-bottom: 1px solid #DDDDDD;
+  background-color: #F8F8F8;
 }
 
 .accordion-inner {
+  border-bottom: 1px solid #E5E5E5;
+  border-top: none;
+}
 
-border-bottom: 1px solid #E5E5E5;
-border-top: none;
+#footer {
+  text-align: center;
+  color: #f9a65d;
+}
 
+#footer a {
+  color: #f9a65d;
 }
